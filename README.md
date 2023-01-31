@@ -4,4 +4,4 @@ AYCL: A personal project aimed to familiarize myself with machine learning tools
 
 GANs: Deep dive into GANs. Try to generate cats. 
 
-TCAE (Tunable Compression Autoencoder)
+TCAE: Tunable Compression Autoencoder.
